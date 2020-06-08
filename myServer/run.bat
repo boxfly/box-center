@@ -1,0 +1,2 @@
+node myServer.js
+pause
