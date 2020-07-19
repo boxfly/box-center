@@ -2,8 +2,8 @@
 var http = require("http"); 
 var url = require("url");  
 var app ={
-	imgSrc:"https://iph.href.lu/100x100",
-	imgs:["http://placehold.it/20x20","http://placekitten.com/g/100/200"],
+	imgSrc:"https://iph.href.lu/100x100","http://placehold.it/20x20"],
+	imgs:["https://www.placecage.com/66/65","http://placekitten.com/g/100/200"],
 	videos:[
 	"https://lmp4.vjshi.com/2016-03-09/2015-ec1b3b3e5e831d7bb4dd16bdff9759fc.mp4?v=nizhuanrennizhuan",
 	"https://lmp4.vjshi.com/2017-06-25/7ed6e8119a1dc16485086e4efb7b2f43.mp4?v=nizhuanrennizhuan", 
